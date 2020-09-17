@@ -406,6 +406,10 @@ font-family: font3;
     font-size: 22px;
     text-transform: uppercase;
 }
+.footer-logo img{
+    width: 70px;
+    margin-bottom: 30px;
+}
 
 /* RESPONSIVE */
 @media(max-width:1199px){
@@ -422,4 +426,5 @@ font-family: font3;
     .experience .resume-info{margin: 0px;}
     .name_header{top: 27%;left: 0px;right: 0;width: 100%;background: #eee;}
     .logo img{position: unset;}
+    .work-area h4{font-size: 22px;margin: 0px;}
 }
