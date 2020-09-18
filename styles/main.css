@@ -377,6 +377,8 @@ font-family: font3;
 .contact-box i{
     font-size: 40px;
     color: #fff;
+    margin-bottom: 20px;
+    display: inline-block;
 }
 .contact-box h4{
     word-break: break-word;
