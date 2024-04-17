@@ -61,13 +61,12 @@ font-family: font3;
 }
 .userimage{
     background: url(https://static.vecteezy.com/system/resources/previews/007/686/736/non_2x/man-in-front-of-computer-monitor-flat-illustraiton-work-from-home-concept-free-vector.jpg) no-repeat center center;
-    height: 600px;
     position: absolute;
     right: 0px;
-    top: 12%;
     z-index: 1;
-    width: 35%;
-    float: left;
+    background-size: cover;
+    width: 460px;
+    height: 500px;
 }
 .rightmenu ul li {
     display: inline-block;
