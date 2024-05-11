@@ -64,9 +64,10 @@ font-family: font3;
     position: absolute;
     right: 0px;
     z-index: 1;
-    background-size: cover;
-    width: 460px;
+    width: 515px;
     height: 100%;
+    background-size: contain;
+    bottom: 45px;
 }
 .rightmenu ul li {
     display: inline-block;
