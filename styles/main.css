@@ -60,7 +60,7 @@ font-family: font3;
     margin-right: 10px;
 }
 .userimage{
-    background: url(../images/userimage.png) no-repeat center center;
+    background: url(../images/profile.png) no-repeat center center;
     position: absolute;
     right: 0px;
     z-index: 1;
